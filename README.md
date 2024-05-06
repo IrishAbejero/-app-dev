@@ -31,3 +31,9 @@ I need to highlight these ==very important words==.
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+X^2^
+
+	[title](https://www.example.com)
+
+ 	![alt text](image.jpg)
